@@ -1,0 +1,14 @@
+symbol pulse = w1
+servo C.2, 140
+
+main:
+	pulse = 100
+	servopos C.2, pulse
+	pause 2000
+	pulse = 140
+	servopos C.2, pulse
+	pause 2000
+	pulse = 180
+	servopos C.2, pulse
+	pause 2000
+goto main

@@ -1,0 +1,25 @@
+## Materialliste für Borsti
+
+- [ ] 1 PICAXE-14M2
+- [ ] 1 Steckbrett SYB-46 
+- [ ] 1 Batteriehalter (3 x AA)
+- [ ] 3 Batterien (AA)
+- [ ] 1 Batterieclip 
+- [ ] 1 Blink-LED RGB 
+- [ ] 1 LED rot, sehr hell 
+- [ ] 2 LEDs gelb, sehr hell 
+- [ ] 2 Transistoren BD 135 
+- [ ] 2 Dioden 1N5819 
+- [ ] 1 TSOP 31238 
+- [ ] 1 Widerstand 10kΩ
+- [ ] 6 Widerstände 1kΩ
+- [ ] 1 Widerstand 100Ω
+- [ ] 2 Kondensator 100nF 
+- [ ] 1 Kondensator 470µF 
+- [ ] 1 Schiebeschalter ESP101 
+- [ ] 2 Vibrationsmotoren 131029
+- [ ] Schuhbürste
+- [ ] CD
+- [ ] Holzschrauben
+- [ ] Bunte Strohhalme
+- [ ] 1 Sony-TV-Fernbedienung

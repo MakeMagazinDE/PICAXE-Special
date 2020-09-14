@@ -1,0 +1,12 @@
+symbol sensor = C.4
+symbol wert = b0
+symbol pulse = b1
+servo C.2,140
+
+main:
+  readtemp sensor, wert
+  pulse = 2 * wert
+  pulse = pulse + 100
+  servopos C.2, pulse
+  pause 5000
+goto main
