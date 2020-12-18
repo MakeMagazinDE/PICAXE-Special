@@ -1,17 +1,17 @@
 pullup on
-pullup %01000
+pullup %00011010
 
 symbol waittime = w0
 
 main:
 	if pinC.1 = 0 then
-		waittime = 2000
+		waittime = 200
 	elseif pinC.3 = 0 then
-		waittime = 4000
+		waittime = 400
 	elseif pinC.4 = 0 then
-		waittime = 8000
+		waittime = 800
 	else
-		waittime = 10000
+		waittime = 1000
 	endif
 
 	low C.2
