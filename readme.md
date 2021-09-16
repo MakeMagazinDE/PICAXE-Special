@@ -8,7 +8,7 @@ Maker Media GmbH
 
 Software und Materiallisten zu den Heftprojekten 
 
-Das Special ist exklusiv zusammen mit dem neuentwickelten Nano-Axe-Board [im Heise Shop erhältlich](https://shop.heise.de/katalog/make-picaxe-special-2020?wt_mc=intern.shop.shop.ma_picaxe.t5.textlink.textlink).
+Das Special ist exklusiv zusammen mit dem neuentwickelten Nano-Axe-Board [im Heise Shop erhältlich](https://shop.heise.de/make-picaxe-special-2020/Print).
 
 ![Picture](https://github.com/MakeMagazinDE/PICAXE-Special/blob/master/Nano-Axe-Platine_Übersicht.jpg)
 
